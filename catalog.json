@@ -7,23 +7,23 @@
                 "media",
                 "test"
             ],
-            "description": "",
+            "description": "@",
             "healthy": true,
             "healthy_error": null,
             "home": "",
             "location": "/home/runner/work/catalog/catalog/dev/testapp",
-            "latest_version": "",
-            "latest_app_version": "",
-            "latest_human_version": "",
-            "last_update": "",
+            "latest_version": "@",
+            "latest_app_version": "@",
+            "latest_human_version": "@",
+            "last_update": "@",
             "name": "testapp",
             "recommended": false,
             "title": "Testapp",
             "maintainers": [
                 {
-                    "email": "",
-                    "name": "",
-                    "url": ""
+                    "email": "@",
+                    "name": "@",
+                    "url": "@"
                 }
             ],
             "tags": [],
