@@ -1,7 +1,7 @@
 {
     "test": {},
     "stable": {
-		"testapp": {
+        "testapp": {
             "app_readme": "<p>testing app for truecharts</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/dev/testapp\">https://truecharts.org/charts/dev/testapp</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
             "categories": [
                 "media",
@@ -33,7 +33,7 @@
                 "https://ghcr.io/onedr0p/jackett",
                 "https://github.com/Jackett/Jackett"
             ],
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png"
+            "icon_url": "https://pics.freeicons.io/uploads/icons/png/8467612941536233213-512.png"
         }
-	}
+    }
 }
