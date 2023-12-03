@@ -1,10 +1,6 @@
 {
     "test": {},
     "stable": {
-		       "testapp": {
-
-            ],
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png"
-        }
+		       "testapp": {}
     }
 }
