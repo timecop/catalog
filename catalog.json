@@ -2,37 +2,43 @@
     "test": {},
     "stable": {
         "debian": {
-            "app_readme": "",
+            "app_readme": "Placeholder Readme Content",
             "categories": [
-                ""
+                "Placeholder Category"
             ],
-            "description": "",
+            "description": "Placeholder Description",
             "healthy": true,
             "healthy_error": null,
-            "home": "",
-            "location": "",
-            "latest_version": "",
+            "home": "https://example.com",
+            "location": "Placeholder Location",
+            "latest_version": "1.0.0",
             "latest_app_version": "latest",
-            "latest_human_version": "",
-            "last_update": "",
-            "name": "",
+            "latest_human_version": "Latest Version",
+            "last_update": "2023-12-03",
+            "name": "MyApp",
             "recommended": false,
-            "title": "",
+            "title": "MyApp Title",
             "maintainers": [
                 {
-                    "email": "",
+                    "email": "maintainer@example.com",
                     "name": "MyBongs",
-                    "url": ""
+                    "url": "https://maintainer-profile.com"
                 }
             ],
-            "tags": [],
-            "screenshots": [],
-            "sources": [
-                "",
-                "",
-                ""
+            "tags": [
+                "Tag1",
+                "Tag2"
             ],
-            "icon_url": ""
+            "screenshots": [
+                "screenshot1.png",
+                "screenshot2.png"
+            ],
+            "sources": [
+                "https://source1.com",
+                "https://source2.com",
+                "https://source3.com"
+            ],
+            "icon_url": "https://icon-url.com/icon.png"
         }
     }
 }
