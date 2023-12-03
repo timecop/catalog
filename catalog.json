@@ -1,4 +1,38 @@
 {
 	"test": {},
-    "stable": {}
+    "stable": {
+		        "ubuntu-xrdp": {
+            "app_readme": "<p>LXDE desktop ubuntu (use remote desktop client to connect)</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/incubator/ubuntu-xrdp\">https://truecharts.org/charts/incubator/ubuntu-xrdp</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "Productivity"
+            ],
+            "description": "LXDE desktop ubuntu (use remote desktop client to connect)",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/incubator/ubuntu-xrdp",
+            "location": "/home/runner/work/catalog/catalog/incubator/ubuntu-xrdp",
+            "latest_version": "2.1.7",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_2.1.7",
+            "last_update": "2023-12-01 18:41:28",
+            "name": "ubuntu-xrdp",
+            "recommended": false,
+            "title": "Ubuntu-xrdp",
+            "maintainers": [
+                {
+                    "email": "info@truecharts.org",
+                    "name": "TrueCharts",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/truecharts/charts/tree/master/charts/incubator/ubuntu-xrdp",
+                "https://hub.docker.com/r/snoopy86/desktop-dockers",
+                "https://registry.hub.docker.com/r/snoopy86/desktop-dockers/"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ubuntu-xrdp.png"
+        },
+	}
 }
