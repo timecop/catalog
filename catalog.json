@@ -1,6 +1,9 @@
 {
     "test": {},
     "stable": {
-		       "testapp": {}
+		       "testapp": {
+				   
+			   "icon_url": "https://banner2.cleanpng.com/20180421/dwq/kisspng-debian-linux-installation-apt-gifts-panels-shading-background-5adb5810ad3306.0797270315243243687094.jpg"
+			   }
     }
 }
