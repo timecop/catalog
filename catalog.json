@@ -28,7 +28,11 @@
             ],
             "tags": [],
             "screenshots": [],
-            "sources": [],
+            "sources": [
+				"https://github.com/truecharts/charts/tree/master/charts/stable/jackett",
+                "https://ghcr.io/onedr0p/jackett",
+                "https://github.com/Jackett/Jackett"
+			],
             "icon_url": "https://pics.freeicons.io/uploads/icons/png/8467612941536233213-512.png"
         }
     }
