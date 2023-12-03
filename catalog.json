@@ -33,6 +33,6 @@
                 "https://registry.hub.docker.com/r/snoopy86/desktop-dockers/"
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ubuntu-xrdp.png"
-        },
+        }
     }
 }
