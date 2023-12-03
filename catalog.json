@@ -2,40 +2,7 @@
     "test": {},
     "stable": {
         "testapp": {
-            "testapp": {
-                "app_readme": "<p>testing app for truecharts</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/dev/testapp\">https://truecharts.org/charts/dev/testapp</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-                "categories": [
-                    "media",
-                    "test"
-                ],
-                "description": "testing app for truecharts",
-                "healthy": true,
-                "healthy_error": null,
-                "home": "https://truecharts.org/charts/stable/jackett",
-                "location": "/home/runner/work/catalog/catalog/dev/testapp",
-                "latest_version": "0.0.1",
-                "latest_app_version": "0.20.2297",
-                "latest_human_version": "0.20.2297_0.0.1",
-                "last_update": "2023-12-01 18:41:28",
-                "name": "testapp",
-                "recommended": false,
-                "title": "Testapp",
-                "maintainers": [
-                    {
-                        "email": "info@truecharts.org",
-                        "name": "TrueCharts",
-                        "url": "https://truecharts.org"
-                    }
-                ],
-                "tags": [],
-                "screenshots": [],
-                "sources": [
-                    "https://github.com/truecharts/charts/tree/master/charts/stable/jackett",
-                    "https://ghcr.io/onedr0p/jackett",
-                    "https://github.com/Jackett/Jackett"
-                ],
-                "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png"
-            }
+            "testapp": {}
         }
     }
 }
