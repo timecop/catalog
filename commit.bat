@@ -7,8 +7,11 @@ set "GIT_PATH=C:\Program Files\Git\bin\git.exe"
 REM Add all changes to the staging area
 "%GIT_PATH%" add .
 
-REM Commit the changes with a default message (you can customize this)
-"%GIT_PATH%" commit -m "Batch script auto-commit"
+REM Prompt the user for a custom commit message
+set /p COMMIT_MSG=Enter commit message: 
+
+REM Commit the changes with the custom message
+"%GIT_PATH%" commit -m "%COMMIT_MSG%"
 
 REM Push the changes to the default branch (e.g., main or master)
 "%GIT_PATH%" push origin HEAD
