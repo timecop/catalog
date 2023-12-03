@@ -7,32 +7,28 @@
                 "media",
                 "test"
             ],
-            "description": "testing app for truecharts",
+            "description": "",
             "healthy": true,
             "healthy_error": null,
-            "home": "https://truecharts.org/charts/stable/jackett",
+            "home": "",
             "location": "/home/runner/work/catalog/catalog/dev/testapp",
-            "latest_version": "0.0.1",
-            "latest_app_version": "0.20.2297",
-            "latest_human_version": "0.20.2297_0.0.1",
-            "last_update": "2023-12-01 18:41:28",
+            "latest_version": "",
+            "latest_app_version": "",
+            "latest_human_version": "",
+            "last_update": "",
             "name": "testapp",
             "recommended": false,
             "title": "Testapp",
             "maintainers": [
                 {
-                    "email": "info@truecharts.org",
-                    "name": "TrueCharts",
-                    "url": "https://truecharts.org"
+                    "email": "",
+                    "name": "",
+                    "url": ""
                 }
             ],
             "tags": [],
             "screenshots": [],
-            "sources": [
-                "https://github.com/truecharts/charts/tree/master/charts/stable/jackett",
-                "https://ghcr.io/onedr0p/jackett",
-                "https://github.com/Jackett/Jackett"
-            ],
+            "sources": [],
             "icon_url": "https://pics.freeicons.io/uploads/icons/png/8467612941536233213-512.png"
         }
     }
